@@ -1,0 +1,137 @@
+body {
+    background-color: #66bfbf;
+    margin: 0;
+    text-align: center;
+    font-family: "Merriweather", serif;
+}
+
+h1 {
+    margin: 50px auto 0 auto;
+    font-family: "Sacramento", cursive;
+    font-size: 5.625rem;
+    color: #66bfbf;
+    line-height: 2;
+}
+
+h2 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 2.5rem;
+    color: #66bfbf;
+    font-weight: normal;
+}
+
+h3 {
+    font-family: "Montserrat", sans-serif;
+    color: #11999e;
+}
+
+div {
+    background-color: #f3f9fb;
+}
+
+a {
+    color: #11999e;
+    font-family: "Montserrat", sans-serif;
+    margin: auto 10px auto 10px;
+    font-weight: bold;
+}
+
+hr {
+    margin: 50px auto 50px auto;
+    border-top: 8px dotted gray;
+    width: 50px;
+}
+
+.top-container {
+    margin-top: 50px;
+    background-color: #eaf6f6;
+    position: relative;
+    padding-top: 100px;
+}
+
+.middle-container {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: white;
+}
+
+.bottom-container {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    background-color: #66bfbf;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.span-underline {
+    text-decoration: underline;
+}
+
+.skills {
+    background-color: white;
+}
+
+.profile {
+    background-color: white;
+}
+
+.contact-me {
+    background-color: white;
+    margin-bottom: 50px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+    background-color: white;
+}
+
+.skill-1 {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.skill-2 {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.intro-text {
+    color: #40514e;
+}
+
+.butn {
+    -webkit-border-radius: 7;
+    -moz-border-radius: 7;
+    border-radius: 7px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 14px;
+    background: #11999e;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    background-color: #11999e;
+}
+
+.butn:hover {
+    text-decoration: none;
+}
+
+.corporate {
+    color: #eaf6f6;
+    font-family: "Montserrat", sans-serif;
+}
